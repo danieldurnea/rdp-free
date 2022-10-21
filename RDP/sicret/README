@@ -1,0 +1,3 @@
+First go to https://ngrok.com link and create an account. Verify your account with your Email address. Then go to https://dashboard.ngrok.com/get-started/your-authtoken and copy your Auth-Token. Then click on your forked repository's "settings" and then click on the "sicret" option. Then click the "New repository secret" option. Then create a sicret named by "NGROK_AUTH_TOKEN". Then pest your token on then "Value". Then click on the "Add sicret" botton. 
+
+Now your sicret has been added for your RDP

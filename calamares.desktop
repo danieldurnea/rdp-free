@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Sparky Installer
+GenericName=Sparky Installer
+Comment=Sparky Installer
+Exec=remsu /usr/bin/calamares
+Icon=/usr/share/icons/sparky/sparkybackupsys/sparky48-installer.png
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=Applications;System
